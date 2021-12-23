@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d53gBNtm0C47MZcobPf40coVgrXBTrQJYPLJoEWn+aQKBnvWc3BMJ5g7MBS5uF7avXHziyA9nWpt25DJsdDtGA==",
+  "success": true,
+  "projectFilePath": "D:\\5_SEM\\MPP-DependencyInjectionContainer-main\\DependencyInjectionContainerLib\\DependencyInjectionContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pkost\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pkost\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pkost\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

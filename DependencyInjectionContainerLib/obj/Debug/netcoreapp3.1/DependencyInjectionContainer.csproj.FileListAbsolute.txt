@@ -1,0 +1,10 @@
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\bin\Debug\netcoreapp3.1\DependencyInjectionContainer.deps.json
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\bin\Debug\netcoreapp3.1\DependencyInjectionContainer.dll
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\bin\Debug\netcoreapp3.1\DependencyInjectionContainer.pdb
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\obj\Debug\netcoreapp3.1\DependencyInjectionContainer.csproj.AssemblyReference.cache
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\obj\Debug\netcoreapp3.1\DependencyInjectionContainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\obj\Debug\netcoreapp3.1\DependencyInjectionContainer.AssemblyInfoInputs.cache
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\obj\Debug\netcoreapp3.1\DependencyInjectionContainer.AssemblyInfo.cs
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\obj\Debug\netcoreapp3.1\DependencyInjectionContainer.csproj.CoreCompileInputs.cache
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\obj\Debug\netcoreapp3.1\DependencyInjectionContainer.dll
+D:\5_SEM\MPP-DependencyInjectionContainer-main\DependencyInjectionContainerLib\obj\Debug\netcoreapp3.1\DependencyInjectionContainer.pdb
